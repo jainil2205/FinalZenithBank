@@ -1,0 +1,11 @@
+.about {
+    padding: auto;
+    margin: auto;
+    display: flex;
+    margin: auto;
+    font-style: italic;
+    background-color: aliceblue;
+    width: 400px; 
+    height: 70px;
+    
+}
